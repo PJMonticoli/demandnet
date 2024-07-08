@@ -1,0 +1,106 @@
+# Visual Studio
+.vs/
+.vscode/
+.vscode/*
+
+# Compiled DLLs
+*.dll
+
+# Compiled PDBs
+*.pdb
+
+# Compiled executable files
+*.exe
+
+# Other binaries
+*.dll
+*.pdb
+*.exe
+*.cache
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.obj
+*.bin
+*.build.csproj
+*.BuildLog.*
+*.dbmdl
+*.opendb
+*.sdf
+*.unsuccessfulbuild
+*.opensdf
+*.opensdfproj
+*_i.c
+*_p.c
+*_pb.c
+*_pi.c
+*_t.c
+
+# Auto-generated files during build
+_build/
+.buildpath/
+.cache/
+# NCrunch
+*.ncrunchsolution
+*.ncrunchproject
+nCrunchTemp_*
+nCrunchTemp__*
+
+# Backup & report files
+*.bak
+*.swp
+*.report.xml
+*.summary.xml
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Web component related
+wwwroot/
+node_modules/
+
+# Publish directory
+publish/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework migrations
+Migrations/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+packages/*
+
+# MSBuild
+project.lock.json
+project.fragment.lock.json
+artifacts/
